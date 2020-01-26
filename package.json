@@ -2,10 +2,10 @@
   "name": "node-redis-crud",
   "version": "1.0.0",
   "description": "A simple CRUD application in Nodejs using Redis as database",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
